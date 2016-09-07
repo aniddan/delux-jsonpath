@@ -1,0 +1,29 @@
+{
+  "name": "delux-jsonpath",
+  "version": "v1.0.0",
+  "description": "JSONPath bindings for Delux",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:aniddan/delux-jsonpath.git"
+  },
+  "keywords": [
+    "state",
+    "manager",
+    "immutable",
+    "delux",
+    "jsonpath",
+    "redux",
+    "flux"
+  ],
+  "author": "Iddan Aharonson <mail@iddan.co> (http://iddan.co)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aniddan/delux-jsonpath/issues"
+  },
+  "homepage": "https://github.com/aniddan/delux-jsonpath",
+  "dependencies": {
+    "delux": "^1.1.0",
+    "jsonpath": "^0.2.7"
+  }
+}
