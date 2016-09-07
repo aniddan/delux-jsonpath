@@ -1,6 +1,6 @@
 {
   "name": "delux-jsonpath",
-  "version": "v1.0.0",
+  "version": "v1.0.1",
   "description": "JSONPath bindings for Delux",
   "main": "index.js",
   "repository": {

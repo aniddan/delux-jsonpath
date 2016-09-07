@@ -10,7 +10,7 @@ for (let key in JSONPath.prototype) {
     };
 }
 
-Object.assign(JSONPath.prototype, {
+Object.assign(JSONPathState.prototype, {
     update (query, update) {
         return this.apply(query, (element) => Object.assign(element, update));
     },
