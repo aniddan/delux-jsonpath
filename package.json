@@ -24,6 +24,6 @@
   "homepage": "https://github.com/aniddan/delux-jsonpath",
   "dependencies": {
     "delux": "^1.1.0",
-    "jsonpath": "^0.2.7"
+    "jsonpath": "^1.0.1"
   }
 }
